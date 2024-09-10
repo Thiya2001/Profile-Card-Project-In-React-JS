@@ -1,0 +1,26 @@
+.head{
+    color: green;
+  }
+  .para{
+    color: rgb(38, 0, 255);
+  }
+  .code{
+    color: blueviolet;
+    font-weight: 900;
+    font-style: italic;
+  }
+  .stud table{
+    border: 1px solid rgb(145, 132, 132);
+    width: 200px;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+  }
+  .stud table td,
+  .stud table th{
+    text-align: left;
+    border: 1px solid rgb(145, 132, 132);
+    padding: 4px;
+  }
+  .stud table th{
+    width: 100px;
+  }
